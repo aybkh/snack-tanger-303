@@ -149,21 +149,21 @@
         "variants": []
       },
       {
-        "id": 79,
-        "name": "Sopa de pescado",
-        "description": null,
-        "price": 4.5,
-        "image": "sopa-de-pescado-tajin.jpg",
-        "is_menu_compatible": false,
-        "is_available": false,
-        "variants": []
-      },
-      {
         "id": 78,
         "name": "Tajin Marisco",
         "description": null,
         "price": 9.0,
         "image": "tajin-marisco-tajin.jpg",
+        "is_menu_compatible": false,
+        "is_available": true,
+        "variants": []
+      },
+      {
+        "id": 79,
+        "name": "Sopa de pescado",
+        "description": null,
+        "price": 4.5,
+        "image": "sopa-de-pescado-tajin.jpg",
         "is_menu_compatible": false,
         "is_available": true,
         "variants": []
@@ -701,7 +701,7 @@
         "price": 1.0,
         "image": null,
         "is_menu_compatible": false,
-        "is_available": true,
+        "is_available": false,
         "variants": []
       }
     ]
