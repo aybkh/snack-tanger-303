@@ -41,7 +41,7 @@
         "price": 8.0,
         "image": null,
         "is_menu_compatible": true,
-        "is_available": false,
+        "is_available": true,
         "variants": []
       }
     ]
